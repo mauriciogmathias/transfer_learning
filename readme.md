@@ -1,6 +1,3 @@
-Cats vs. Dogs Classification - README
-=====================================
-
 Project Overview
 ----------------
 This project is a binary classification task to distinguish between images of cats and dogs using a pre-trained MobileNetV2 model. The workflow includes:
